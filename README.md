@@ -1,2 +1,2 @@
 # sports-playlist
-Sports TV M3U Playlist
+Sports TV Playlist m3u
